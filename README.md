@@ -120,3 +120,5 @@ Not sure you needed the exclamation point there, but we like your enthusiasm.
 * **Blog:** http://blog.brackets.io/
 * **IRC:** [#brackets on freenode](http://webchat.freenode.net/?channels=brackets)
 
+
+
